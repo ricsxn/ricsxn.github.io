@@ -1,6 +1,6 @@
 ## Welcome to Riccardo Bruno home page
 
-Born in Catania (Italy) in 1969, got a master degree in Computer Science in 1999. Since the degree he worked as researcher in the field of computer vision and augmented reality for the University of Catania. Then he started to work in the Telecommunication industry from 2000 till 2005 for the billing sector. Since 2006 has been employed with a contract based relationship, at the [Institute of Nuclear Physics][INFN] [Dept. of Catania][INFNCT] as Technologist, participating to several European projects starting from the 6th Framework Programe till the latest H2020[H2020] of the European Commission. From 2018 he got a permanent position at [INFN][INFN] providing support to the scientific calculation and their related distributed infrastructures.
+Born in Catania (Italy) in 1969, got a master degree in Computer Science in 1999. Since the degree he worked as researcher in the field of computer vision and augmented reality for the University of Catania. Then he started to work in the Telecommunication industry from 2000 till 2005 for the billing sector. Since 2006 has been employed with a contract based relationship, at the [Institute of Nuclear Physics][INFN] [Dept. of Catania][INFNCT] as Technologist, participating to several European projects starting from the 6th Framework Programe till the latest [H2020][H2020] of the European Commission. From 2018 he got a permanent position at [INFN][INFN] providing support to the scientific calculation and their related distributed infrastructures.
 
 Below the complete list:
 
@@ -24,4 +24,5 @@ Below the complete list:
 [AGINFRA]: https://cordis.europa.eu/project/rcn/100730/factsheet/en
 [EARTHSRV]: https://cordis.europa.eu/project/rcn/99766/en
 [H2020]: https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020
+[INDIGODC]: https://cordis.europa.eu/project/rcn/194882/factsheet/en
 [EOSCHUB]: https://www.eosc-hub.eu
