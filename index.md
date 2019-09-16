@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Riccardo Bruno home page
 
-You can use the [editor on GitHub](https://github.com/ricsxn/ricsxn.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Born in Catania (Italy) in 1969, got a master degree in Computer Science in 1999. Since the degree he worked as researcher in the field of computer vision and augmented reality for the University of Catania. Then he started to work in the Telecommunication industry from 2000 till 2005 for the billing sector. Since 2006 has been employed with a contract based relationship, at the [Institute of Nuclear Physics][INFN] [Dept. of Catania][INFNCT] as Technologist, participating to several European projects starting from the 6th Framework Programe till the latest H2020[H2020] of the European Commission. From 2018 he got a permanent position at [INFN][INFN] providing support to the scientific calculation and their related distributed infrastructures.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Below the complete list:
 
-### Markdown
+* [EUMEDGrid][EUMED]
+* [Egee II][EGEEII]/[Egee III][EGEEIII]
+* [EELA-2][EELA2]
+* [EUMEDGRID-Support][EUMEDSUP]
+* [agInfra][AGINFRA]
+* [EarthServer][EARTHSRV]
+* [INDIGO-datacloud][INDIGODC]
+* [EOSC-hub][EOSCHUB]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ricsxn/ricsxn.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[INFN]: http://home.infn.it/it/
+[INFNCT]: https://www.ct.infn.it/it/
+[EUMED]: https://cordis.europa.eu/project/rcn/80128/factsheet/en
+[EGEEII]: https://cordis.europa.eu/project/rcn/99189/factsheet/en
+[EGEEIII]: https://cordis.europa.eu/project/rcn/87264/en
+[EGEE]: https://eu-egee-org.web.cern.ch/eu-egee-org/index.html
+[EELA2]: https://cordis.europa.eu/project/rcn/86622/factsheet/en
+[EUMEDSUP]: https://cordis.europa.eu/project/rcn/93822/factsheet/en
+[AGINFRA]: https://cordis.europa.eu/project/rcn/100730/factsheet/en
+[EARTHSRV]: https://cordis.europa.eu/project/rcn/99766/en
+[H2020]: https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020
+[EOSCHUB]: https://www.eosc-hub.eu
