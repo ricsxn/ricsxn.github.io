@@ -16,7 +16,7 @@ Below the list of the european projects:
 * [EOSC-hub][EOSCHUB]
 
 # Experiences
-Operating systems, software development especiakky C/C++ and Assembler applied in the context of the computer graphics, have been since ever the core of his interests. His thesis work: "Augmented Reality: An implementation without calibration on low cost machines" has been continued for almost one year while working as researcher for the [University of Catania][UNICT]. In that period he learned methods and algorithms for fast computing calculation, real-time image acquisition, 2D/3D computer graphics, computer vision and augmented reality.
+Operating systems, software development especially C/C++ and Assembler applied in the context of the computer graphics, have been since ever the core of his interests. His thesis work: "Augmented Reality: An implementation without calibration on low cost machines" has been continued for almost one year while working as researcher for the [University of Catania][UNICT]. In that period he learned methods and algorithms for fast computing calculation, real-time image acquisition, 2D/3D computer graphics, computer vision and augmented reality.
 
 When joined the mobile telecommunication indistry for the billing sector, he learned the [BSCS][BSCS] system, knew the fundamentals of the mobile networks, improved his knowledge with commercial Unix environments Compaq/HP and IBM, shell programming (ksh), Oracle databases, SQL, C/C++, Software maintenance tools (CMVC), Centura for BSCS' GUIs on MS Windows.
 
