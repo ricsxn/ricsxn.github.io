@@ -1,3 +1,6 @@
+---
+  title: About
+---
 # About
 Born in Catania (Italy) in 1969, got a master degree in Computer Science in 1999. Since the degree he worked as researcher in the field of computer vision and augmented reality for the University of Catania. Then he started to work in the Telecommunication industry from 2000 till 2005 for the billing sector. Since 2006 has been employed with a contract based relationship, at the [Institute of Nuclear Physics][INFN] [Dept. of Catania][INFNCT] as Technologist, participating to several European projects starting from the 6th Framework Programe till the latest [H2020][H2020] of the European Commission. From 2018 he got a permanent position at [INFN][INFN] providing support to the scientific calculation and their related distributed computing infrastructures (DCIs).
 
