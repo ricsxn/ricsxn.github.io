@@ -14,5 +14,5 @@ plugins:
   - jekyll-feed
 logo: images/me.png
 show_downloads: [false]
-google_analytics: "UA-148332475-1"
+google_analytics: UA-148332475-1
 future: true
