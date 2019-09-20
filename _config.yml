@@ -8,6 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ricsxn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: ricsxn
 github_username: ricsxn
+linkedin_username: riccardo-bruno-b333931
 theme: minima
 #theme: jekyll-theme-minimal
 plugins:
